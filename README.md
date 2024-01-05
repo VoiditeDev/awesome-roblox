@@ -68,5 +68,5 @@ If you wish to add a new entry, consider this:
 
 ## Plugins
 * [InCommand](https://devforum.roblox.com/t//558996) — Versatile, adaptable command bar replacement, designed with power users in mind.
-* [Yoolurs Builder](https://devforum.roblox.com/t//2609063) **PAID** — 10 plugins in one.
 * [UI Tools](https://devforum.roblox.com/t//2166473) — Handy tools for UI designing.
+* [Yoolurs Builder](https://devforum.roblox.com/t//2609063) **PAID** — 10 plugins in one.
