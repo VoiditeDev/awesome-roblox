@@ -61,11 +61,12 @@ If you wish to add a new entry, consider this:
 ### Networking
 * [BridgeNet](https://devforum.roblox.com/t//1909935) — Insanely optimized, intuitive networking library with support for roblox-ts.
 * [ReplicaService](https://devforum.roblox.com/t//894736) —
-* [Warp](https://devforum.roblox.com/t//2779813) — Fast, lightweight and powerful networking library
+* [Warp](https://devforum.roblox.com/t//2779813) — Fast, lightweight and powerful networking library.
 
 ### Pathfinding
 * [SimplePath](https://devforum.roblox.com/t//1196762) — Simple, intuitive and efficient pathfinding module.
 
 ## Plugins
 * [InCommand](https://devforum.roblox.com/t//558996) — Versatile, adaptable command bar replacement, designed with power users in mind.
-* [Yoolurs Builder](https://devforum.roblox.com/t//2609063) **PAID** — 10 plugins in one
+* [Yoolurs Builder](https://devforum.roblox.com/t//2609063) **PAID** — 10 plugins in one.
+* [UI Tools](https://devforum.roblox.com/t//2166473) — Handy tools for UI designing.
