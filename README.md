@@ -1,6 +1,13 @@
 # awesome-roblox
 List of useful Roblox development resources.
 
+* [DevForum](https://devforum.roblox.com/) - The greatest community of Roblox developers on the web. An invaluable resource to anyone who wishes to contribute to the platform (or not 🤷).
+
+## Applications
+
+* [Vinegar](https://devforum.roblox.com/t//2224394/48) - An open-source, minimal, configurable, fast bootstrapper for running Roblox on Linux.
+* [Luau Language Server](https://devforum.roblox.com/t/luau-language-server-for-external-editors/2185389) - Support for Luau, Roblox's programming language, right in your favorite code editor.
+
 ## Guides
 
 * [Writing good code and speeding up everything](https://devforum.roblox.com/t//2666661) 
@@ -8,9 +15,15 @@ List of useful Roblox development resources.
 
 ## Development tools
 
-* [Cmdr](https://devforum.roblox.com/t//182815) - A fully extensible and type safe command console for Roblox Developers
+* [Cmdr](https://devforum.roblox.com/t//182815) - A fully extensible and type safe command console for Roblox Developers.
+* [Rojo](https://rojo.space/) - Project management tool designed to get professional resources in the hands of Roblox developers. 
 
 ## Libraries
+
+### Frameworks
+
+* [CanaryEngine](https://devforum.roblox.com/t//2189347/102) - Lightweight & blazingly fast framework.
+* [Eden](https://devforum.roblox.com/t//2702261) - Powerful, lightweight and flexible framework.
 
 ### Networking
 * [BridgeNet](https://devforum.roblox.com/t//1909935) - Insanely optimized, intuitive networking library with support for roblox-ts.
@@ -34,11 +47,14 @@ List of useful Roblox development resources.
 ### Anti-cheat
 * [Knightmare](https://devforum.roblox.com/t//2223732) - Server-side anti-cheat.
 
+## Games
+* [Vesteria](https://devforum.roblox.com/t//842436) - Extensive fantasy MMORPG.
+* [Miner's Haven](https://devforum.roblox.com/t//350767) - The game that redefined the tycoon genre, released 100% for free under an Apache license. Learn directly from the source.
+* [Infinite Mining Kit](https://create.roblox.com/marketplace/asset/4920625917/) -
+
 ### GUIs
 * [TopbarPlus](https://devforum.roblox.com/t//1017485) - Construct intuitive topbar icons; customise them with themes, dropdowns, captions, labels and much more.
 * [Iris](https://devforum.roblox.com/t//2302802) - Immediate Mode UI library, based on Dear ImGui.
-
-
 
 ## Plugins
 * [Yoolurs Builder](https://devforum.roblox.com/t//2609063) **PAID** - 10 plugins in one
