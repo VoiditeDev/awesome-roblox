@@ -6,7 +6,6 @@ List of useful Roblox development resources.
 ## Applications
 
 * [Vinegar](https://devforum.roblox.com/t//2224394/48) - An open-source, minimal, configurable, fast bootstrapper for running Roblox on Linux.
-* [Luau Language Server](https://devforum.roblox.com/t/luau-language-server-for-external-editors/2185389) - Support for Luau, Roblox's programming language, right in your favorite code editor.
 
 ## Guides
 
@@ -14,7 +13,7 @@ List of useful Roblox development resources.
 * [Scripting basics](https://devforum.roblox.com/t//359838)
 
 ## Development tools
-
+* [Luau Language Server](https://devforum.roblox.com/t/luau-language-server-for-external-editors/2185389) - Support for Luau, Roblox's programming language, right in your favorite code editor.
 * [Cmdr](https://devforum.roblox.com/t//182815) - A fully extensible and type safe command console for Roblox Developers.
 * [Rojo](https://rojo.space/) - Project management tool designed to get professional resources in the hands of Roblox developers. 
 
