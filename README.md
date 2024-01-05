@@ -57,3 +57,4 @@ List of useful Roblox development resources.
 
 ## Plugins
 * [Yoolurs Builder](https://devforum.roblox.com/t//2609063) **PAID** - 10 plugins in one
+* [InCommand](https://devforum.roblox.com/t//558996) - Versatile, adaptable command bar replacement, designed with power users in mind.
