@@ -15,6 +15,31 @@ If you wish to add a new entry, consider this:
 * * `SUMMARY` — A concise description of the project
 * Be mindful of alphabetical ordering.
 
+## Table of contents
+
+<!-- toc -->
+
+- [Applications](#applications)
+- [Development tools](#development-tools)
+- [Games](#games)
+- [Guides](#guides)
+- [Libraries](#libraries)
+    * [Anti-cheat](#anti-cheat)
+    * [Backpacks](#backpacks)
+    * [Chat](#chat)
+    * [DataStores](#datastores)
+    * [Frameworks](#frameworks)
+    * [GUIs](#guis)
+    * [Networking](#networking)
+    * [Pathfinding](#pathfinding)
+    * [Physics](#physics)
+- [Plugins](#plugins)
+
+- [License](#license)
+
+<!-- tocstop -->
+
+
 ## Applications
 
 * [Vinegar](https://devforum.roblox.com/t//2224394/48) — An open-source, minimal, configurable, fast bootstrapper for running Roblox on Linux.
@@ -77,3 +102,7 @@ If you wish to add a new entry, consider this:
 * [InCommand](https://devforum.roblox.com/t//558996) — Versatile, adaptable command bar replacement, designed with power users in mind.
 * [UI Tools](https://devforum.roblox.com/t//2166473) — Handy tools for UI designing.
 * [Yoolurs Builder](https://devforum.roblox.com/t//2609063) **PAID** — 10 plugins in one.
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
