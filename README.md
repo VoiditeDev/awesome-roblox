@@ -47,9 +47,9 @@ If you wish to add a new entry, consider this:
 * [Better Chat V3](https://devforum.roblox.com/t//1756348/) — Feature-rich custom chat with replies, rich text, message editing, and more.
 
 ### DataStores
+* [DataKeep](https://devforum.roblox.com/t//2656200) — 
 * [DataStore2](https://devforum.roblox.com/t//136317) — 
 * [ProfileService](https://devforum.roblox.com/t//667805) — 
-* [DataKeep](https://devforum.roblox.com/t//2656200) — 
 * [SDM](https://devforum.roblox.com/t//2425597) — Suphi's DataStore Module
 
 ### Frameworks
