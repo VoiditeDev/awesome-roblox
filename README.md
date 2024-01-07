@@ -49,6 +49,7 @@ If you wish to add a new entry, consider this:
 ### DataStores
 * [DataStore2](https://devforum.roblox.com/t//136317) — 
 * [ProfileService](https://devforum.roblox.com/t//667805) — 
+* [DataKeep](https://devforum.roblox.com/t//2656200) — 
 * [SDM](https://devforum.roblox.com/t//2425597) — Suphi's DataStore Module
 
 ### Frameworks
