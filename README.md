@@ -51,7 +51,6 @@ If you wish to add a new entry, consider this:
 * [ProfileService](https://devforum.roblox.com/t//667805) — 
 * [SDM](https://devforum.roblox.com/t//2425597) — Suphi's DataStore Module
 
-
 ### Frameworks
 * [CanaryEngine](https://devforum.roblox.com/t//2189347/102) — Lightweight & blazingly fast framework.
 * [Eden](https://devforum.roblox.com/t//2702261) — Powerful, lightweight and flexible framework.
@@ -67,6 +66,11 @@ If you wish to add a new entry, consider this:
 
 ### Pathfinding
 * [SimplePath](https://devforum.roblox.com/t//1196762) — Simple, intuitive and efficient pathfinding module.
+
+### Physics
+* [FastCast](https://devforum.roblox.com/t//133474) — Bullet physics emulation and hit detection with no physics replication involved.
+* [ClientCast](https://devforum.roblox.com/t//895217) — A Client-based, Idiosyncratic Hitbox System.
+
 
 ## Plugins
 * [InCommand](https://devforum.roblox.com/t//558996) — Versatile, adaptable command bar replacement, designed with power users in mind.
