@@ -56,8 +56,8 @@ If you wish to add a new entry, consider this:
 * [Vesteria](https://devforum.roblox.com/t//842436) — Extensive fantasy MMORPG.
 
 ## Guides
-* [Writing good code and speeding up everything](https://devforum.roblox.com/t//2666661) 
-* [Scripting basics](https://devforum.roblox.com/t//359838)
+* [Writing good code and speeding up everything](https://devforum.roblox.com/t//2666661) —
+* [Scripting basics](https://devforum.roblox.com/t//359838) — Beginner guide to Lua and Roblox
 
 ## Libraries
 
@@ -70,6 +70,7 @@ If you wish to add a new entry, consider this:
 
 ### Chat
 * [Better Chat V3](https://devforum.roblox.com/t//1756348/) — Feature-rich custom chat with replies, rich text, message editing, and more.
+* [Social Chat V2](https://devforum.roblox.com/t//2290658/) — Roblox’s #1 Open-Sourced chatting resource
 
 ### DataStores
 * [DataKeep](https://devforum.roblox.com/t//2656200) — 
@@ -78,7 +79,7 @@ If you wish to add a new entry, consider this:
 * [SDM](https://devforum.roblox.com/t//2425597) — Suphi's DataStore Module
 
 ### Frameworks
-* [CanaryEngine](https://devforum.roblox.com/t//2189347/102) — Lightweight & blazingly fast framework.
+* [CanaryEngine](https://devforum.roblox.com/t//2189347/) — Lightweight & blazingly fast framework.
 * [Eden](https://devforum.roblox.com/t//2702261) — Powerful, lightweight and flexible framework.
 
 ### GUIs
@@ -86,8 +87,9 @@ If you wish to add a new entry, consider this:
 * [TopbarPlus](https://devforum.roblox.com/t//1017485) — Construct intuitive topbar icons; customise them with themes, dropdowns, captions, labels and much more.
 
 ### Networking
-* [BridgeNet](https://devforum.roblox.com/t//1909935) — Insanely optimized, intuitive networking library with support for roblox-ts.
-* [ReplicaService](https://devforum.roblox.com/t//894736) —
+* [BridgeNet2](https://devforum.roblox.com/t//2189165) — Insanely optimized, intuitive networking library with support for roblox-ts.
+* [ReplicaService](https://devforum.roblox.com/t//894736) — 
+* [Red](https://devforum.roblox.com/t//2302865/) — A simple, fast, and powerful networking library
 * [Warp](https://devforum.roblox.com/t//2779813) — Fast, lightweight and powerful networking library.
 
 ### Pathfinding
@@ -99,9 +101,10 @@ If you wish to add a new entry, consider this:
 
 
 ## Plugins
+#### NOTE: ALL PLUGINS LISTED ARE PAID
 * [InCommand](https://devforum.roblox.com/t//558996) — Versatile, adaptable command bar replacement, designed with power users in mind.
 * [UI Tools](https://devforum.roblox.com/t//2166473) — Handy tools for UI designing.
-* [Yoolurs Builder](https://devforum.roblox.com/t//2609063) **PAID** — 10 plugins in one.
+* [Yoolurs Builder](https://devforum.roblox.com/t//2609063) — 10 plugins in one.
 
 ## License
 
